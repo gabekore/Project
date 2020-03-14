@@ -1,0 +1,9 @@
+https://github.com/java-native-access/jna
+
+jna-5.5.0.jar
+と
+jna-5.5.0.jar
+を
+ダウンロードして、
+プロジェクトに追加
+※libフォルダ作ってそこに入れた

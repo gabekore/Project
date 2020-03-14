@@ -1,0 +1,6 @@
+C:\home\_GitHub\Project\MessagingQue\DllCallerCS\DllCallerCS\bin\Release\DllCallerCS.exe.config
+C:\home\_GitHub\Project\MessagingQue\DllCallerCS\DllCallerCS\bin\Release\DllCallerCS.exe
+C:\home\_GitHub\Project\MessagingQue\DllCallerCS\DllCallerCS\bin\Release\DllCallerCS.pdb
+C:\home\_GitHub\Project\MessagingQue\DllCallerCS\DllCallerCS\obj\Release\DllCallerCS.csproj.CoreCompileInputs.cache
+C:\home\_GitHub\Project\MessagingQue\DllCallerCS\DllCallerCS\obj\Release\DllCallerCS.exe
+C:\home\_GitHub\Project\MessagingQue\DllCallerCS\DllCallerCS\obj\Release\DllCallerCS.pdb
